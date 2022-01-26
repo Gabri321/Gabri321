@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gabriel Hernandes
-A software engineer focused on all things UI
+A software engineer focused on Android
 
 ![](https://github-profile-trophy.vercel.app/?username=gabhernandes)
 
