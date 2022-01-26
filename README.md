@@ -1,16 +1,17 @@
+# Hi 👋, I'm Gabriel Hernandes
+A software engineer focused on all things UI
 
-  
-  ### GABRIEL HERNANDES 👋
+![](https://github-profile-trophy.vercel.app/?username=gabhernandes)
 
-Welcome to my GitHub profile!
+### Connect with me:
 
-- 🔭 I’m currently working on native applications
-- 🌱 Learning Android and Kotlin
-- 📫 Reach me: <a href="https://www.linkedin.com/in/gabriel-hernandes/">My LinkedIn Profile</a>
-<!--
-**gabhernandes/gabhernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="left">
+<a href="https://linkedin.com/in/gabrielhernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabhernandes)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<!--
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabhernandes&show_icons=true&locale=en" alt="gabhernandes" /></p>
+
+
