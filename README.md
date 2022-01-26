@@ -7,7 +7,7 @@ A software developer focused on Android applications and frameworks
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/gabrielhernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielhernandes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielhernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabhernandes" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
