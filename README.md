@@ -1,5 +1,4 @@
 # Hi 👋, I'm Gabriel Hernandes
-A software engineer focused on Android and Kotlin
 
 
 ![](https://github-profile-trophy.vercel.app/?username=gabhernandes)
